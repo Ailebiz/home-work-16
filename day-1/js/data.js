@@ -1,4 +1,4 @@
-// Data массиві
+
 const data = [
     { title: "Title 1", description: "Description 1" },
     { title: "Title 2", description: "Description 2" },
